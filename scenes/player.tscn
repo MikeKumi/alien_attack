@@ -10,6 +10,7 @@ height = 454.0
 [node name="Player" type="CharacterBody2D"]
 rotation = 1.5708
 scale = Vector2(0.2, 0.2)
+motion_mode = 1
 script = ExtResource("1_udpbi")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
